@@ -92,15 +92,18 @@ markdown 处理器和渲染模式 ：<br>
 1. 去缓存
  <br>
 ![](https://img.fengfan.win/blogimg/202110292126968.png)<br>
-`<meta http-equiv="Expires" content="0">
+```<meta http-equiv="Expires" content="0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-control" content="no-cache">
-<meta http-equiv="Cache" content="no-cache">`
+<meta http-equiv="Cache" content="no-cache">
+```
 
 2. 代码高亮
 <br>截图：<br>
-![](https://img.fengfan.win/blogimg/202110292132621.png)<br>
-`<link href="http://cdn.bootcss.com/highlight.js/8.0/styles/vs.min.css" rel="stylesheet">
+![](https://img.fengfan.win/blogimg/202110292132621.png)
+
+```
+<link href="http://cdn.bootcss.com/highlight.js/8.0/styles/vs.min.css" rel="stylesheet">
 <script src="http://cdn.bootcss.com/highlight.js/8.0/highlight.min.js"></script>  
 <script >hljs.initHighlightingOnLoad();</script> 
-`
+```
