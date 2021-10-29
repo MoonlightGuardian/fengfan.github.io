@@ -1,9 +1,16 @@
 {{ define "content" }}
 <div class="error text-center">
-  <h1 class="error-title">404</h1>
+  <h1 class="error-title">Oops!</h1>
+  <style> 
+.divcss5{text-align:center} 
+</style> 
+
+<body> 
+<div class="divcss5"><img src="http://www.divcss5.com/img201305/divcss5-logo-201305.gif" /></div> 
+</body> 
   <div class="mb-4 error-info">PAGE NOT FOUND</div>
   <div class="mb-4 error-actions">
-    <a class="btn btn-primary" href="{{ absLangURL "/" }}"><i class="fas fa-fw fa-home"></i>主页</a>
+    <a class="btn btn-primary" href="{{ absLangURL "/" }}"><i class="fas fa-fw fa-home"></i>Home</a>
   </div>
 </div>
 {{ end }}
