@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文章 on Hugo Bootstrap</title>
-    <link>/posts/</link>
-    <description>Recent content in 文章 on Hugo Bootstrap</description>
+    <title>电脑软件 on Hugo Bootstrap</title>
+    <link>/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</link>
+    <description>Recent content in 电脑软件 on Hugo Bootstrap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 29 Oct 2021 20:34:48 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 20:34:48 +0800</lastBuildDate><atom:link href="/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MarkdownPad2的安装、配置、优化</title>
       <link>/posts/markdownpad2/</link>
@@ -15,15 +15,6 @@
       
       <guid>/posts/markdownpad2/</guid>
       <description>Markdown 介绍 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。 —— 维基百科 Markdown提供</description>
-    </item>
-    
-    <item>
-      <title>如何愉快的使用Via浏览器</title>
-      <link>/posts/how-to-use-via-browser-happily/</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/how-to-use-via-browser-happily/</guid>
-      <description>软件介绍 Via，简洁轻快浏览器。堪称最小巧最强安卓极简浏览器，纯净无广告、界面简约、功能强大、麻雀虽小，五脏俱全！该手机迷你浏览器采用的we</description>
     </item>
     
   </channel>

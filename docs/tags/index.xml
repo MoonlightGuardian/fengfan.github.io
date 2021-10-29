@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 20:34:48 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>/tags/markdown/</link>
+      <pubDate>Fri, 29 Oct 2021 20:34:48 +0800</pubDate>
+      
+      <guid>/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MarkdownPad2</title>
+      <link>/tags/markdownpad2/</link>
+      <pubDate>Fri, 29 Oct 2021 20:34:48 +0800</pubDate>
+      
+      <guid>/tags/markdownpad2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>md</title>
+      <link>/tags/md/</link>
+      <pubDate>Fri, 29 Oct 2021 20:34:48 +0800</pubDate>
+      
+      <guid>/tags/md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电脑软件</title>
+      <link>/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Fri, 29 Oct 2021 20:34:48 +0800</pubDate>
+      
+      <guid>/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Android</title>
       <link>/tags/android/</link>

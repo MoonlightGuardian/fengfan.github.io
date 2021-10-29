@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/tags/markdownpad2/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/posts/markdownpad2/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/tags/md/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/series/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
+    <loc>/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2021-10-29T20:34:48+08:00</lastmod>
+  </url><url>
     <loc>/tags/android/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,28 +47,13 @@
     <loc>/categories/android/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/via/</loc>
-    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/how-to-use-via-browser-happily/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E5%AE%89%E5%8D%93/</loc>
-    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%84%9A%E6%9C%AC/</loc>

@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Oct 2021 20:34:48 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MarkdownPad2的安装、配置、优化</title>
+      <link>/posts/markdownpad2/</link>
+      <pubDate>Fri, 29 Oct 2021 20:34:48 +0800</pubDate>
+      
+      <guid>/posts/markdownpad2/</guid>
+      <description>Markdown 介绍 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。 —— 维基百科 Markdown提供</description>
+    </item>
+    
     <item>
       <title>如何愉快的使用Via浏览器</title>
       <link>/posts/how-to-use-via-browser-happily/</link>
