@@ -1,7 +1,7 @@
 baseURL = "https://www.fengfan.win"
 title = "风范网"
 theme = "hugo-theme-bootstrap"
-copyright = "Copyright © 2021-{year} Razon Yang. All Rights Reserved."
+copyright = "Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "zh-cn"
