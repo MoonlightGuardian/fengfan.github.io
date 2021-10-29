@@ -23,7 +23,7 @@ tags = [
 series = [
   "工具"
 ]
-aliases = ["MarkdownPad2"]
+aliases = ["MarkdownPad"]
 images = [
   "https://img.fengfan.win/blogimg/202110292046420.jpg?width=180px&height=110px"
 ]
