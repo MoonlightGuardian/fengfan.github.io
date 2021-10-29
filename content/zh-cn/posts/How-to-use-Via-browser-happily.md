@@ -1,5 +1,5 @@
-
 +++
+author = "q14060"
 title = "如何愉快的使用Via浏览器"
 date = "2021-10-28"
 description = "风范网是一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！"
@@ -9,6 +9,7 @@ comment = true
  toc = true
 reward = false
 diagram = true
+math = true
 categories = ["Android"
 ]
 tags = [
