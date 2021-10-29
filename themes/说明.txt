@@ -1,0 +1,49 @@
+
+
+强制传输git push -- force
+
+建站
+hugo new site fengfan.win
+cd fengfan.win
+
+ hugo new posts/about.md
+或者
+hugo new -c content/zh-cn posts/newpost.md
+
+hugo server  -D 运行网站
+
+
+
+主题必须环境
+https://nodejs.org/zh-cn/download/
+主题网站
+https://github.com/alanorth/hugo-theme-bootstrap4-blog
+下载
+解压到themes
+复制exampleSite内文件到站点跟目录
+
+
+
+报错教程
+https://www.cnblogs.com/xmjs/p/12734767.html
+视频教程
+https://haokan.baidu.com/v?pd=wisenatural&vid=11672759923307376437
+
+
+hugo --destination ./docs --buildDrafts --cleanDestinationDir   //编译html
+
+cd docs
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/MoonlightGuardian/fengfan.win.git
+git push -u origin main
+
+
+报错failed to push some refs to
+办法1：先拉下来，会自动合并的（不用操心）
+命令：git pull origin master
+办法2：可以通过如下命令进行代码合并
+命令：git pull --rebase origin master   (我的成功解决是方法2)
+最后：再执行语句 git push 即可完成代码上传到github
+命令：git push -u origin master

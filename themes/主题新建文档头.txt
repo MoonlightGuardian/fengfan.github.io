@@ -1,0 +1,59 @@
+
++++
+title = "如何愉快的使用Via浏览器"
+date = "2021-10-28"
+description = "风范网是一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！"
+featured = true
+draft = false
+comment = true
+ toc = true
+reward = false
+diagram = true
+categories = ["Android"
+]
+tags = [
+  "via",
+  "浏览器脚本",
+  "Android",
+"安卓",
+"脚本",
+]
+
+series = [
+  "Android"
+]
+aliases = ["via浏览器"]
+images = [
+  "https://img.fengfan.win/blogimg/202110282243704.png?width=180px&height=110px"
+]
+
++++
+
+
+
+title = "如何愉快的使用Via浏览器"
+日期 = "2021-10-28"
+description = "一个用于记录生活风、分享范软件、分享技术和家居避装修坑平台，我们的理念是乐于分享，收获快乐！"
+精选=真
+草稿 = 假
+评论 = 真
+  toc = 真
+奖励=假
+图表=真
+分类 = [“Android”
+]
+标签 = [
+   “通过”，
+   "浏览器脚本",
+   “安卓”，
+"安卓",
+"脚本",
+]
+
+专栏 = [
+   “安卓”
+]
+别名 = ["via浏览器"]
+图像 = [
+   "https://img.fengfan.win/blogimg/202110282243704.png?width=180px&height=110px"
+]

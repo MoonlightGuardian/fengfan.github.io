@@ -8,6 +8,9 @@
     <loc>/series/android/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/android/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,6 +18,9 @@
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/series/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/how-to-use-via-browser-happily/</loc>
@@ -49,8 +55,6 @@
   </url><url>
     <loc>/posts/markdown-syntax/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
   </url><url>
     <loc>/archives/</loc>
   </url><url>

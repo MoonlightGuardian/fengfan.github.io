@@ -1,11 +1,15 @@
 
-
 +++
 title = "如何愉快的使用Via浏览器"
 date = "2021-10-28"
 description = "风范网是一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！"
 featured = true
-categories = [
+draft = false
+comment = true
+ toc = true
+reward = false
+diagram = true
+categories = ["Android"
 ]
 tags = [
   "via",
@@ -18,11 +22,11 @@ tags = [
 series = [
   "Android"
 ]
-aliases = ["migrate-from-jekyl"]
+aliases = ["via浏览器"]
 images = [
   "https://img.fengfan.win/blogimg/202110282243704.png?width=180px&height=110px"
 ]
- toc = true
+
 +++
 
 

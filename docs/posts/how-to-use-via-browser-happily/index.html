@@ -202,9 +202,7 @@ BOOTSTRAP
   
     
 
-    <a class="action btn-reward" role="button" data-bs-toggle="modal" data-bs-target="#rewardModal" title="打赏">
-  <i class="fas fa-fw fa-coffee"></i>
-</a>
+    
     <a class="action" data-bs-container="body" data-bs-toggle="popover" data-bs-html="true" data-bs-placement="bottom"
   data-bs-trigger="focus" tabindex="0" role="button" aria-label="Copyright" 
   data-bs-content="&lt;a target=&#34;_blank&#34; rel=&#34;license noopener noreferrer&#34; href=&#34;https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh&#34;&gt;CC BY-NC-ND 4.0 &lt;i class=&#34;fab fa-fw fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-fw fa-creative-commons-by&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-fw fa-creative-commons-nc&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-fw fa-creative-commons-nd&#34;&gt;&lt;/i&gt;&lt;/a&gt;
@@ -223,7 +221,7 @@ BOOTSTRAP
     <i class="fas fa-fw fa-calendar-alt"></i>2021-10-28
   </span><span class="post-reading-time" title="reading time">
     <i class="fas fa-fw fa-coffee"></i>2 分钟阅读
-  </span><a href="/series/android/" class="badge rounded-pill text-white bg-primary post-taxonomy">Android</a><a href="/tags/via/" class="badge rounded-pill text-white bg-primary post-taxonomy">via</a><a href="/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%84%9A%E6%9C%AC/" class="badge rounded-pill text-white bg-primary post-taxonomy">浏览器脚本</a><a href="/tags/android/" class="badge rounded-pill text-white bg-primary post-taxonomy">Android</a><a href="/tags/%E5%AE%89%E5%8D%93/" class="badge rounded-pill text-white bg-primary post-taxonomy">安卓</a><a href="/tags/%E8%84%9A%E6%9C%AC/" class="badge rounded-pill text-white bg-primary post-taxonomy">脚本</a></div>
+  </span><a href="/categories/android/" class="badge rounded-pill text-white bg-primary post-taxonomy">Android</a><a href="/series/android/" class="badge rounded-pill text-white bg-primary post-taxonomy">Android</a><a href="/tags/via/" class="badge rounded-pill text-white bg-primary post-taxonomy">via</a><a href="/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%84%9A%E6%9C%AC/" class="badge rounded-pill text-white bg-primary post-taxonomy">浏览器脚本</a><a href="/tags/android/" class="badge rounded-pill text-white bg-primary post-taxonomy">Android</a><a href="/tags/%E5%AE%89%E5%8D%93/" class="badge rounded-pill text-white bg-primary post-taxonomy">安卓</a><a href="/tags/%E8%84%9A%E6%9C%AC/" class="badge rounded-pill text-white bg-primary post-taxonomy">脚本</a></div>
 <div class="offcanvas offcanvas-end surface h-100" tabindex="-1" id="offcanvasTOC" aria-labelledby="offcanvasTOCLabel">
   <div class="offcanvas-header">
     <h2 class="offcanvas-title" id="offcanvasTOCLabel">目录</h5>
@@ -316,32 +314,7 @@ BOOTSTRAP
 <h3 id="蓝奏云链接自动修复">蓝奏云链接自动修复</h3>
 <hr>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="ln">1</span>;(function(){window.onload = setTimeout(function(){ if (location.href===&#39;chrome-error://chromewebdata/&#39;) { let a = document.querySelector(&#39;a&#39;), b = /\/\/(\w+\.)*lanzou\w?\.com\//; a = (a) ? a.href :  document.querySelector(&#39;strong&#39;).innerHTML; if (b.test(a)) { location.href = a.replace(b,&#39;//pan.lanzoui.com/&#39;); }}},70)})();
-</code></pre></div></div><div class="modal fade" id="rewardModal" tabindex="-1" aria-labelledby="rewardModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content surface">
-      <div class="modal-header">
-        <h5 class="modal-title" id="rewardModalLabel"><i class="fas fa-fw fa-coffee"></i>打赏</h5>
-        <a href="#" data-bs-dismiss="modal" class="btn btn-sm btn-outline-primary" aria-label="Close"><i class="fas fa-times"></i></a>
-      </div>
-      <div class="modal-body">
-        <ul class="nav nav-tabs flex-nowrap mb-3" role="tablist"><li class="nav-item text-nowrap" role="presentation">
-            <a class="nav-link active" id="reward-alipay-tab" data-bs-toggle="tab" href="#reward-alipay" role="tab" aria-controls="reward-alipay" aria-selected="true">
-              <i class="fab fa-fw fa-alipay"></i>支付宝
-            </a>
-          </li><li class="nav-item text-nowrap" role="presentation">
-            <a class="nav-link" id="reward-wechat-tab" data-bs-toggle="tab" href="#reward-wechat" role="tab" aria-controls="reward-wechat" aria-selected="true">
-              <i class="fab fa-fw fa-weixin"></i>微信
-            </a>
-          </li></ul>
-        <div class="tab-content" id="rewardTabContent"><div class="tab-pane fade post-reward-content show active" id="reward-alipay" role="tabpanel" aria-labelledby="reward-alipay-tab">
-            <img class="img-fluid post-reward-img" src="/images/reward/alipay.png" loading="lazy" />
-          </div><div class="tab-pane fade post-reward-content show" id="reward-wechat" role="tabpanel" aria-labelledby="reward-wechat-tab">
-            <img class="img-fluid post-reward-img" src="/images/reward/wechat.png" loading="lazy" />
-          </div></div>
-      </div>
-    </div>
-  </div>
-</div><hr /><div class="post-navs d-flex mb-3 justify-content-evenly">
+</code></pre></div></div><hr /><div class="post-navs d-flex mb-3 justify-content-evenly">
   <div class="post-nav post-prev"><i class="fas fa-fw fa-chevron-left"></i>
     <a href="/posts/markdown-syntax/">Markdown Syntax Guide
 </a>
@@ -387,6 +360,15 @@ BOOTSTRAP
 </a></li></ul>
   </div>
 </section><section class="taxonomies row card component">
+      <div class="card-body">
+        <h2 class="card-title">
+          <a href="/categories">分类</a>
+        </h2>
+        <div><a href="/categories/android/" class="badge bg-primary text-white rounded post-taxonomy" title="Android">
+            Android
+          </a></div>
+      </div>
+    </section><section class="taxonomies row card component">
       <div class="card-body">
         <h2 class="card-title">
           <a href="/series">专栏</a>
@@ -486,6 +468,6 @@ BOOTSTRAP
 <div class="powered-by mb-2">
   Powered by <a href="https://gohugo.io" target="_blank" rel="noopener noreferrer">Hugo</a> and the <a href="https://github.com/razonyang/hugo-theme-bootstrap" target="_blank" rel="noopener noreferrer">Bootstrap</a> theme.
 </div></footer>
-<script src="/js/bundle.min.ff86187495d811f9ac53ffd5a4f5e354a1d40eae69710942f01287b2b63e20c6.js" integrity="sha256-/4YYdJXYEfmsU//VpPXjVKHUDq5pcQlC8BKHsrY&#43;IMY=" crossorigin="anonymous" defer></script><script defer src="/js/viewer.min.2f6511f1e2b87cdacb7bdeedeadc1dcf2fc9f22db69f89b70fd5d91224f892a4.js" integrity="sha256-L2UR8eK4fNrLe97t6twdzy/J8i22n4m3D9XZEiT4kqQ=" crossorigin="anonymous"></script>
+<script src="/js/bundle.min.ff86187495d811f9ac53ffd5a4f5e354a1d40eae69710942f01287b2b63e20c6.js" integrity="sha256-/4YYdJXYEfmsU//VpPXjVKHUDq5pcQlC8BKHsrY&#43;IMY=" crossorigin="anonymous" defer></script><script defer src="/js/viewer.min.2f6511f1e2b87cdacb7bdeedeadc1dcf2fc9f22db69f89b70fd5d91224f892a4.js" integrity="sha256-L2UR8eK4fNrLe97t6twdzy/J8i22n4m3D9XZEiT4kqQ=" crossorigin="anonymous"></script><script defer src="/js/mermaid.min.056a5e55b4ca662f849c0558a048f7c2e36f606c23a6b0e4e0e2826b5b0c9869.js" integrity="sha256-BWpeVbTKZi&#43;EnAVYoEj3wuNvYGwjprDk4OKCa1sMmGk=" crossorigin="anonymous"></script>
 </body>
 </html>
