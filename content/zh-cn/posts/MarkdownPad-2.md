@@ -61,11 +61,11 @@ MarkdownPad 2 的最新版本是 V2.5(当前时间是2021/10/29 )，建议下载
 MarkdownPad 2 的官网下载地址： [http://markdownpad.com/](http://markdownpad.com/ "http://markdownpad.com/")<br>
 选择 Free版下载。
 
-2. 安装 
-<br>下一步，下一步，不说了<br>
-3. 申请购买序列号<br>
-此处省略。<br>
-序列号生成器下载地址
+2. 安装  
+ 下一步，下一步，不说了  
+3. 申请购买序列号  
+此处省略  
+序列号生成器下载地址：[闪电盘 提取码：1yTL](http://shandianpan.com/f/8vE3 "闪电盘 提取码：1yTL")
 
 
 ## 异常 ##
@@ -89,8 +89,7 @@ markdown 处理器和渲染模式 ：<br>
 
 
 ## 优化配置 ##
-1. 去缓存
- <br>
+1. 去缓存  
 ![](https://img.fengfan.win/blogimg/202110292126968.png)<br>
 ```<meta http-equiv="Expires" content="0">
 <meta http-equiv="Pragma" content="no-cache">
@@ -98,8 +97,8 @@ markdown 处理器和渲染模式 ：<br>
 <meta http-equiv="Cache" content="no-cache">
 ```
 
-2. 代码高亮
-<br>截图：<br>
+2. 代码高亮  
+  截图：  
 ![](https://img.fengfan.win/blogimg/202110292132621.png)
 
 ```
