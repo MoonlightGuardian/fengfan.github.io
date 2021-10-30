@@ -8,7 +8,7 @@ keywords = "Android, 博客, windows, 公众号, 小程序, 福利, 心情, 装�
 
 # logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
 # logo = false # Disable Logo
-brand = "BOOTSTRAP"
+brand = "风范网"
 
 palette = "blue" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
