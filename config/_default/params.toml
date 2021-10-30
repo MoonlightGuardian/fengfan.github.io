@@ -27,12 +27,12 @@ googleAdsense = ""
 # math = true # Enable math globally.
 # toc = false # Disable TOC globally.
 # breadcrumb = false # Disable breadcrumb
-# diagram = true
+ diagram = true
 
-# poweredBy = false # Whether to show powered by.
+ poweredBy = false # Whether to show powered by.
 
-# readingTime = false # Whether to display the reading time.
-# postDate = false # Whether to display the post date in the post meta section.
+readingTime = true # Whether to display the reading time.
+postDate = false # Whether to display the post date in the post meta section.
 
 # featuredPostCount = 10 # The number of featured posts shown in sidebar. Turn off by setting it to false.
 # recentPostCount = 10 # The number of recent posts shown in sidebar. Turn off by setting it to false.
@@ -60,8 +60,8 @@ viewer = true # Image Viewer
   lineNos = false # true/false represents that show/hide the line numbers by default.
 
 [post]
-  # excerpt = "description"
-  # excerptMaxLength = 120
+#excerpt = "description"
+ #excerptMaxLength = 140
 
 [archive]
   paginate = 8 # Archive pagination. Default to 100.
@@ -113,9 +113,9 @@ viewer = true # Image Viewer
 
 #[share]
   #addThis = "" # AddThis pubid.
-
-[fontSize] # Comment or remove this settings to disable font size switcher.
-  # extraSmall = ".8rem"
-  # small = ".9rem"
-  # large = "1.1rem"
-  # extraLarge = "1.2rem"
+ addThis =false
+#[fontSize] # Comment or remove this settings to disable font size switcher.
+ #extraSmall = ".8rem"
+  #small = ".9rem"
+  #large = "1.1rem"
+ # extraLarge = "1.2rem"
