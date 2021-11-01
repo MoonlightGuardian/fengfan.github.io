@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2021-{year} 不会吃鱼的猫. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 29 Oct 2021 20:34:48 +0800</lastBuildDate><atom:link href="/series/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 22:34:48 +0800</lastBuildDate><atom:link href="/series/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ShareX图床配置，大厂CDN，大众点评客服</title>
+      <link>/posts/sharex-image-bed-configuration-dianping-customer-service/</link>
+      <pubDate>Mon, 01 Nov 2021 22:34:48 +0800</pubDate>
+      
+      <guid>/posts/sharex-image-bed-configuration-dianping-customer-service/</guid>
+      <description>ShareX是一个开源免费的截图软件，软件小巧精悍，整个安装包不到5MB。与其它的截图不同，ShareX可以真正实现截图自动化，独有的任务设</description>
+    </item>
+    
     <item>
       <title>MarkdownPad2的安装、配置、优化</title>
       <link>/posts/markdownpad-2/</link>
