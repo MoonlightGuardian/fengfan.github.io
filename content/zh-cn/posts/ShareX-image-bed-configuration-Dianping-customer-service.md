@@ -23,7 +23,7 @@ tags = [
 series = [
   "工具"
 ]
-aliases = ["ShareX-image-bed-configuration-Dianping-customer-service"]
+aliases = ["ShareX image bed configuration Dianping customer service"]
 images = [
   "https://img.fengfan.win/blogimg/202111012228743.jpg?width=180px&height=110px"
 ]
