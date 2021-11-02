@@ -1,5 +1,6 @@
 git rm -r --cached docs/
 rm -r docs/
+
 git init
 git add .
 git commit -m "uodate"
