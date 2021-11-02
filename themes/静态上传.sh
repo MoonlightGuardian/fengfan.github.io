@@ -7,3 +7,5 @@ git push -u origin main
 # 下边是拉取解决报错
 git pull --rebase origin master
 git pull origin main
+
+rm -f ./.git/
