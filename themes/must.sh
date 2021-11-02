@@ -8,6 +8,9 @@ git commit -m "uodate"
 git branch -M main
 git remote add origin https://github.com/MoonlightGuardian/fengfan.github.io.git
 git push -u origin main
+# 下边是拉取解决报错
+# git pull --rebase origin master
+# git pull origin main
 
 # 是生成docs网页
 hugo --destination ./docs --buildDrafts --cleanDestinationDir  
@@ -18,6 +21,10 @@ git commit -m "uodate"
 git branch -M main
 git remote add origin https://github.com/MoonlightGuardian/fengfan.github.io.git
 git push -u origin main
+# # 下边是拉取解决报错
+# git pull --rebase origin master
+# git pull origin main
+
 
 # 复制sh到docs文件夹并且运行   静态上传.sh是上传到另外一个公开的库 
 cp -a ./themes/静态上传.sh ./docs/静态上传.sh
