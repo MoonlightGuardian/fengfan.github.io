@@ -40,10 +40,13 @@ git remote add origin https://github.com/MoonlightGuardian/fengfan.win.git
 git push -u origin main
 
 
+git pull --rebase origin master
+git pull origin main
+
 报错failed to push some refs to
 办法1：先拉下来，会自动合并的（不用操心）
 命令：git pull origin master
 办法2：可以通过如下命令进行代码合并
 命令：git pull --rebase origin master   (我的成功解决是方法2)
 最后：再执行语句 git push 即可完成代码上传到github
-命令：git push -u origin master
+命令：git pull origin main
