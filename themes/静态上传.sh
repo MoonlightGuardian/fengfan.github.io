@@ -8,4 +8,4 @@ git push -u origin main
 git pull --rebase origin master
 git pull origin main
 
-rm -f ./.git/
+rm -rf ./.git
