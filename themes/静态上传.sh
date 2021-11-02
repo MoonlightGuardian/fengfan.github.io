@@ -9,3 +9,4 @@ git pull --rebase origin master
 git pull origin main
 
 rm -rf ./.git
+rm -rf ./静态上传.sh
