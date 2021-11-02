@@ -1,6 +1,7 @@
-git rm -r --cached docs/
-rm -r docs/
-printf "Hello World"
+rm -r docs/ #删除docs文件夹#
+git rm -r --cached docs/ #告诉git我删除了docs文件夹#
+
+
 git init
 git add .
 git commit -m "uodate"
@@ -20,4 +21,3 @@ git push -u origin main
 
 hugo server  -D
 
-printf "Hello World"
