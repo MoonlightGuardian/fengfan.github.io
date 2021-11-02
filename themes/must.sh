@@ -1,4 +1,4 @@
-rm -r docs/ #删除docs文件夹   docs文件夹是生成的静态网页文件目录#
+rm -f docs/ #删除docs文件夹   docs文件夹是生成的静态网页文件目录#
 git rm -r --cached docs/ #告诉git我删除了docs文件夹#
 
 #下边是上传文件到git#
