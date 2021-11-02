@@ -1,6 +1,6 @@
 git rm -r --cached docs/
 rm -r docs/
-
+#可以注释#
 git init
 git add .
 git commit -m "uodate"
