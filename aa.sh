@@ -1,6 +1,6 @@
 git rm -r --cached docs/
 rm -r docs/
-echo "Hello World"!
+printf "Hello World"
 git init
 git add .
 git commit -m "uodate"
@@ -19,3 +19,5 @@ git remote add origin https://github.com/MoonlightGuardian/fengfan.github.io.git
 git push -u origin main
 
 hugo server  -D
+
+printf "Hello World"
