@@ -30,8 +30,10 @@ git push -u origin main
 cp -a ./themes/静态上传.sh ./docs/静态上传.sh
 cd docs
 ./静态上传.sh
+cp -a ./themes/静态上传2.sh ./docs/静态上传2.sh
+cd docs
+./静态上传2.sh
 
-cd -
 rm -r ./must.sh
 # 运行本地网站  -D 是显示草稿
 hugo server  -D
