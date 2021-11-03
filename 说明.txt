@@ -1,0 +1,54 @@
+报错failed to push some refs to
+git pull --rebase origin master
+git pull origin main
+
+继续报错
+git pull --rebase origin master
+git pull origin main  --allow-unrelated-histories
+
+
+建站
+hugo new site fengfan.win
+
+新建文章
+ hugo new posts/about.md
+或者
+hugo new -c content/zh-cn posts/newpost.md
+
+
+运行网站  -D显示草稿
+hugo server  -D
+
+主题安装
+解压到themes
+复制exampleSite内文件到站点跟目录
+
+汇编html文件到docs文件夹
+hugo --destination ./docs --buildDrafts --cleanDestinationDir
+
+上传到github
+cd docs
+ git init
+git add .
+git commit -m "uodate"
+git branch -M main
+git remote add origin https://github.com/MoonlightGuardian/blog.git
+git push -u origin main
+
+
+返回上一目录
+cd -
+
+上传到github   2
+git init
+git add .
+git commit -m "uodate"
+git branch -M main
+git remote add origin https://github.com/MoonlightGuardian/fengfan.github.io.git
+git push -u origin main
+
+删除docs文件夹   docs文件夹是生成的静态网页文件目录#
+rm -rf docs/ 
+
+告诉git我删除了docs文件夹#
+git rm -rf --cached docs/ 
