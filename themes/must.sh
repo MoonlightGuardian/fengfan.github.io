@@ -9,6 +9,7 @@ git branch -M main
 git remote add origin https://github.com/MoonlightGuardian/fengfan.github.io.git
 git push -u origin main
 # 下边是拉取解决报错
+<<<<<<< HEAD
  git pull --rebase origin master
  git pull origin main  --allow-unrelated-histories
 # git pull origin main
@@ -25,6 +26,12 @@ git remote add origin https://github.com/MoonlightGuardian/fengfan.github.io.git
 git push -u origin main
 # 是生成docs网页
 
+=======
+# git pull --rebase origin master
+# git pull origin main
+
+# 是生成docs网页
+>>>>>>> 682d51425c023aba5d4933c8cb28399d0cd9220b
 hugo --destination ./docs --buildDrafts --cleanDestinationDir  
  
 git init
@@ -33,7 +40,10 @@ git commit -m "uodate"
 git branch -M main
 git remote add origin https://github.com/MoonlightGuardian/fengfan.github.io.git
 git push -u origin main
+<<<<<<< HEAD
 
+=======
+>>>>>>> 682d51425c023aba5d4933c8cb28399d0cd9220b
 # # 下边是拉取解决报错
 # git pull --rebase origin master
 # git pull origin main
@@ -43,22 +53,28 @@ git push -u origin main
 cp -a ./themes/静态上传.sh ./docs/静态上传.sh
 cd docs
 ./静态上传.sh
+<<<<<<< HEAD
 
 cd -
 
 rm -rf ./.git
 rm -rf ./静态上传.sh
 
+=======
+>>>>>>> 682d51425c023aba5d4933c8cb28399d0cd9220b
 cp -a ./themes/静态上传2.sh ./docs/静态上传2.sh
 cd docs
 ./静态上传2.sh
 
+<<<<<<< HEAD
 cd -
 
 rm -rf ./.git
 rm -rf ./docs/.git
 rm -rf ./静态上传2.sh
 
+=======
+>>>>>>> 682d51425c023aba5d4933c8cb28399d0cd9220b
 rm -r ./must.sh
 # 运行本地网站  -D 是显示草稿
 hugo server  -D
