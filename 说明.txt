@@ -28,7 +28,8 @@ hugo --destination ./docs --buildDrafts --cleanDestinationDir
 
 上传到github
 cd docs
- git init
+
+git init
 git add .
 git commit -m "uodate"
 git branch -M main
@@ -51,4 +52,4 @@ git push -u origin main
 rm -rf docs/ 
 
 告诉git我删除了docs文件夹#
-git rm -rf --cached docs/ 
+
