@@ -35,7 +35,7 @@ ShareX自动上传支持国外各大相册（例如Imgur、Flickr、Google Photo
 ![](https://img.fengfan.win/blogimg/202111012312422.jpeg)
 
 ## ShareX图床自定义配置 ##
-美团点评的服务器
+美团点评的服务器  
 代码如下
 
 ```

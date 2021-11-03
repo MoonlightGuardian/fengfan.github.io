@@ -1,4 +1,0 @@
-git rm -r --cached docs/
-rm -r docs/
-
-É¾³ıÍøÒ³
