@@ -1,0 +1,5 @@
+dateFormat = "2006-01-02"
+description = "风范网是一个用于记录生活、分享软件、分享技术教程和房屋装修避坑平台，我们的宗旨是乐于分享，收获快乐！"
+keywords = "ndroid, 博客, windows, 公众号, 小程序, 福利, 心情, 装修, 家装"
+[archive]
+  dateFormat = "01-02"
