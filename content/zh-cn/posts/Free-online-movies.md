@@ -52,15 +52,26 @@ images = [
 
 | 网站名称       | 简介        | 地址   显示图片则网站正常 |
 | ------------- | -------------            | ------------- |
-|[电影狗搜索](https://www.dianyinggou.com/) |	蓝光高清4k免费电影|![可能无法访问](https://www.dianyinggou.com/View/images/logo.png?height=30px)|
 |[电影蜜蜂](https://www.idybee.com/)	|提供百度网盘 + 在线播放 + 资源等|![可能无法访问](https://www.idybee.com/wp-content/uploads/2019/01/121.png?height=30px)|
 |[片库](https://www.pianku.one/)	|提供在线播放 + 资源链接|![可能无法访问](https://www.pianku.one/logo.svg?height=30px)|
 |[迅雷电影天堂](https://xunlei8.cc/)	|提供迅雷网盘 + 百度网盘 + 资源链接|![可能无法访问](https://xunlei8.cc/static/img/homesearch_bg.jpg?height=30px)|
 |[BD 影视分享](https://www.bd2020.com/)	|提供百度网盘 + 电驴链接|![可能无法访问](https://www.bd2020.com/r/cms/www/bdfilm_v3/img/logo_s.png?height=30px)|
 |[人人电影网](https://www.rrdyw.cc/)	|提供百度网盘 + 迅雷网盘|![可能无法访问](https://www.rrdyw.cc/static/picture/logo.png?height=30px)|
-|影视聚合 APP	|手机影视 app 汇总||
-|资源	|更多的资源索引网站||
-## 影视大全 ##
 
-## 影视大全 ##
-## 影视大全 ##
+## 影视搜索 ##
+
+| 网站名称       | 简介        | 地址   显示图片则网站正常 |
+| ------------- | -------------            | ------------- |
+|[电影狗搜索](https://www.dianyinggou.com/) |	蓝光高清4k免费电影|![可能无法访问](https://www.dianyinggou.com/View/images/logo.png?height=30px)|
+| [未知搜索](https://xsear.ch/)	| 全网影视资源搜索| ![可能无法访问](https://img.fengfan.win/blogimg/202111040035690.jpg?height=30px)| 
+| [茶杯狐](https://www.cupfox.com/)	| 影视资源聚合搜索| ![可能无法访问](https://img.fengfan.win/blogimg/202111040035690.jpg?height=30px)|
+| [电影淘淘](https://www.dianyingtaotao.com/)	| 影视资源综合搜索|![可能无法访问](https://img.fengfan.win/blogimg/202111040035690.jpg?height=30px)| 
+
+## 日韩欧美 ##
+| 网站名称       | 简介        | 地址   显示图片则网站正常 |
+| ------------- | -------------            | ------------- |
+|[ NO 视频](https://www.novipnoad.com/)	| 欧美、日韩最新电影电视剧| ![可能无法访问](https://www.novipnoad.com/logo.png?height=30px)| 
+| [东京不够热](https://www.tokyonothot.com/)	| 日剧生肉熟肉网盘资源| ![可能无法访问](https://www.tokyonothot.com/wp-content/themes/tokyonothot/images/logo.jpg?height=30px)| 
+| [91 美剧网](https://91mjw.com/)	| 在线美剧，更新快| ![可能无法访问](https://91mjw.com/images/logo.jpg?height=30px)| 
+|[ 97 泰剧](https://www.taijuwang.com/)	| 泰剧影视在线，资源多| ![可能无法访问](https://www.taijuwang.com/template/alifun/images/logo-v1.png?height=30px)|  
+| [韩饭网](https://www.hanfan.cc/)	| 韩剧资讯及百度网盘下载|![可能无法访问](https://www.hanfan.cc/img/logo.svg?height=30px)|  
