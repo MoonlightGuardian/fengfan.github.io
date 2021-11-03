@@ -1,0 +1,9 @@
+name = "不会吃鱼的猫"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+bio = "平面设计, 策划运营, 脚本小子."
+company = "Company"
+location = "Earth"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  #layout = "compact"
