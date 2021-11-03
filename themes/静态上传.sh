@@ -11,7 +11,11 @@ git pull origin main  --allow-unrelated-histories
 cd -
 
 hugo --destination ./docs --buildDrafts --cleanDestinationDir 
+<<<<<<< HEAD
 cd docs
+=======
+
+>>>>>>> 243497879758b9588d708611b5eddcb8c80021ba
 git init
 git add .
 git commit -m "uodate"
