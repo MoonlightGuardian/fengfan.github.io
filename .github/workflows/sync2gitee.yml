@@ -35,6 +35,10 @@ jobs:
           # 直接取当前项目的仓库名
           static_list: ${{ github.event.repository.name }}
           # 还有黑、白名单，静态名单机制，可以用于更新某些指定库
-          # static_list: 'repo_name,repo_name2'
-          # black_list: 'repo_name,repo_name2'
+          #静态名单 
+          static_list: 'repo_name,repo_name2'
+          #黑名单
+          # black_list: 'docs\.git,repo_name2'
+         # 白名单
           # white_list: 'repo_name,repo_name2'
+           #  docs\.git
