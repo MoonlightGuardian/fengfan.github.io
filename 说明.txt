@@ -55,6 +55,6 @@ rm -rf docs/
 
 告诉git我删除了docs文件夹#
 git rm -r --cached docs/
-
+git commit -m 'Remove the now ignored directory "docs/"'
 
 git push origin master
