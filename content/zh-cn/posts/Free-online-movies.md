@@ -26,7 +26,7 @@ series = [
 ]
 aliases = ["Free online movies"]
 images = [
-  "https://img.fengfan.win/blogimg/202111031418700.jpg?width=180px&height=110px"
+  "https://img.fengfan.win/blogimg/202111061825608.jpg?width=180px&height=110px"
 ]
 
 +++
@@ -65,7 +65,7 @@ images = [
 |[电影狗搜索](https://www.dianyinggou.com/) |	蓝光高清4k免费电影|![可能无法访问](https://www.dianyinggou.com/View/images/logo.png?height=30px)|
 | [未知搜索](https://xsear.ch/)	| 全网影视资源搜索| ![可能无法访问](https://img.fengfan.win/blogimg/202111040035690.jpg?height=30px)| 
 | [茶杯狐](https://www.cupfox.com/)	| 影视资源聚合搜索| ![可能无法访问](https://img.fengfan.win/blogimg/202111040035690.jpg?height=30px)|
-| [电影淘淘](https://www.dianyingtaotao.com/)	| 影视资源综合搜索|![可能无法访问](https://img.fengfan.win/blogimg/202111040035690.jpg?height=30px)| 
+| [电影淘淘](https://www.dianyingtaotao.com/)	| 影视资源综合搜索|![可能无法访问](https://www.dianyingtaotao.com/static/search/images/logo.png?height=30px)| 
 
 ## 日韩欧美 ##
 | 网站名称       | 简介        | 地址   显示图片则网站正常 |
@@ -75,3 +75,14 @@ images = [
 | [91 美剧网](https://91mjw.com/)	| 在线美剧，更新快| ![可能无法访问](https://91mjw.com/images/logo.jpg?height=30px)| 
 |[ 97 泰剧](https://www.taijuwang.com/)	| 泰剧影视在线，资源多| ![可能无法访问](https://www.taijuwang.com/template/alifun/images/logo-v1.png?height=30px)|  
 | [韩饭网](https://www.hanfan.cc/)	| 韩剧资讯及百度网盘下载|![可能无法访问](https://www.hanfan.cc/img/logo.svg?height=30px)|  
+
+## 动漫番剧 ##
+
+| 网站名称       | 简介        | 地址   显示图片则网站正常 |
+| ------------- | -------------            | ------------- |
+ | [AGE 动漫](https://www.agefans.live) | 	在线播放与百度网盘 | ![可能无法访问](https://cdn.radius-america.com/age/static/img/logo.png?height=30px)|
+ | [樱花动漫](https://yhdm.nl/)	 | 在线播放及百度网盘 |  ![可能无法访问](https://yhdm.nl/static/img/logo-fs8.png?height=30px)|
+ | [动漫岛](http://www.dm55.cc/)	 | 新番连载大量完结日漫、国漫 |  ![可能无法访问](http://www.88dmw.com/template/dmd8pc/images/logo.png?height=30px)|
+ | [怡宣动漫](http://www.yxdm.li/)	 | 新番连载日漫、国漫 |  ![可能无法访问](http://www.yxdm.li/pic/logo-kanokano.png?height=30px)|
+ | [嘶哩嘶哩](http://www.silisili.in/)	 | 新番连载日本动画片 | ![可能无法访问](http://www.silisili.in/images/f_logo.png?height=30px)|
+
