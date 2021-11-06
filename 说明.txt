@@ -3,6 +3,8 @@ git pull --rebase origin master
 git pull origin main
 
 
+
+
 继续报错
 git pull --rebase origin master
 git pull origin main  --allow-unrelated-histories
