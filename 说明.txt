@@ -3,7 +3,9 @@ git pull --rebase origin master
 git pull origin main
 
 继续报错
+把github上最新的文件下载下来
 git pull --rebase origin master
+
 git pull origin main  --allow-unrelated-histories
 
 
@@ -52,4 +54,7 @@ git push -u origin main
 rm -rf docs/ 
 
 告诉git我删除了docs文件夹#
+git rm -r --cached docs/
 
+
+git push origin master
