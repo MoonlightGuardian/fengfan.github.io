@@ -43,4 +43,4 @@ jobs:
           # white_list: 'repo_name,repo_name2'
            #  docs\.git
   force_update: true
-   clone_style: "ssh"
+
