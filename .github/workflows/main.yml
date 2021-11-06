@@ -1,16 +1,17 @@
-name: 同步到gitee
-on: [push]
+name: 'GitHub Actions Mirror'
+
+on: [push, delete]
+
 jobs:
-  sync:
+  mirror_to_gitee:
     runs-on: ubuntu-latest
     steps:
-    - name: Sync to Gitee
-      uses:  同步
-      env:
-        SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
-      with:
-        # 来源仓库
-        source-repo: "git@github.com:MoonlightGuardian/fengfan.github.io"
-        # 目标仓库
-        destination-repo: "git@gitee.com:Know/fengfan"
-  
+      - name: 'Checkout'
+        uses: actions/checkout@v1
+      - name: 'Mirror to gitee'
+        uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url:
+            git@gitee.com:Know/fengfan.git
+          ssh_private_key:
+            ${{ secrets.sSSH-Keys }}
