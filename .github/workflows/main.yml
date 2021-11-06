@@ -1,7 +1,5 @@
 name: 'GitHub Actions Mirror'
-
 on: [push, delete]
-
 jobs:
   mirror_to_gitee:
     runs-on: ubuntu-latest
@@ -14,4 +12,4 @@ jobs:
           target_repo_url:
             git@gitee.com:Know/fengfan.git
           ssh_private_key:
-            ${{ secrets.sSSH-Keys }}
+            ${{ secrets.BEGIN_KEYS }}
