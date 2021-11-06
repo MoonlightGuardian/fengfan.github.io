@@ -1,32 +1,33 @@
-±¨´ífailed to push some refs to
+æŠ¥é”™failed to push some refs to
 git pull --rebase origin master
 git pull origin main
 
-¼ÌĞø±¨´í
+
+ç»§ç»­æŠ¥é”™
 git pull --rebase origin master
 git pull origin main  --allow-unrelated-histories
 
 
-½¨Õ¾
+å»ºç«™
 hugo new site fengfan.win
 
-ĞÂ½¨ÎÄÕÂ
+æ–°å»ºæ–‡ç« 
  hugo new posts/about.md
-»òÕß
+æˆ–è€…
 hugo new -c content/zh-cn posts/newpost.md
 
 
-ÔËĞĞÍøÕ¾  -DÏÔÊ¾²İ¸å
+è¿è¡Œç½‘ç«™  -Dæ˜¾ç¤ºè‰ç¨¿
 hugo server  -D
 
-Ö÷Ìâ°²×°
-½âÑ¹µ½themes
-¸´ÖÆexampleSiteÄÚÎÄ¼şµ½Õ¾µã¸úÄ¿Â¼
+ä¸»é¢˜å®‰è£…
+è§£å‹åˆ°themes
+å¤åˆ¶exampleSiteå†…æ–‡ä»¶åˆ°ç«™ç‚¹è·Ÿç›®å½•
 
-»ã±àhtmlÎÄ¼şµ½docsÎÄ¼ş¼Ğ
+æ±‡ç¼–htmlæ–‡ä»¶åˆ°docsæ–‡ä»¶å¤¹
 hugo --destination ./docs --buildDrafts --cleanDestinationDir
 
-ÉÏ´«µ½github
+ä¸Šä¼ åˆ°github
 cd docs
 
 git init
@@ -37,10 +38,10 @@ git remote add origin https://github.com/MoonlightGuardian/blog.git
 git push -u origin main
 
 
-·µ»ØÉÏÒ»Ä¿Â¼
+è¿”å›ä¸Šä¸€ç›®å½•
 cd -
 
-ÉÏ´«µ½github   2
+ä¸Šä¼ åˆ°github   2
 git init
 git add .
 git commit -m "uodate"
@@ -48,8 +49,8 @@ git branch -M main
 git remote add origin https://github.com/MoonlightGuardian/fengfan.github.io.git
 git push -u origin main
 
-É¾³ıdocsÎÄ¼ş¼Ğ   docsÎÄ¼ş¼ĞÊÇÉú³ÉµÄ¾²Ì¬ÍøÒ³ÎÄ¼şÄ¿Â¼#
+åˆ é™¤docsæ–‡ä»¶å¤¹   docsæ–‡ä»¶å¤¹æ˜¯ç”Ÿæˆçš„é™æ€ç½‘é¡µæ–‡ä»¶ç›®å½•#
 rm -rf docs/ 
 
-¸æËßgitÎÒÉ¾³ıÁËdocsÎÄ¼ş¼Ğ#
+å‘Šè¯‰gitæˆ‘åˆ é™¤äº†docsæ–‡ä»¶å¤¹#
 
