@@ -38,7 +38,7 @@ jobs:
           # 静态名单 
          # static_list: 'repo_name,repo_name2'
           # 黑名单
-           black_list: 'docs'
+         #  black_list: 'MoonlightGuardian_fengfan.github.io_docs'
          # 白名单
           # white_list: 'repo_name,repo_name2'
            #  docs\.git
