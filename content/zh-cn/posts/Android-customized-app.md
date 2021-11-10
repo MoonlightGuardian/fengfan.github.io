@@ -28,6 +28,13 @@ images = [
 ]
 +++
 > 移动智能终端预置应用是指由生产企业自行或与互联网信息服务提供者合作在移动智能终端出厂前安装在其系统中的应用程序（英文简称为“APP”）。
+----------
+## 华为 ##
+https://consumer.huawei.com/cn/support/apk/
+![](https://img.fengfan.win/blogimg/202111102052531.png)
+
+----------
+
 ## 糖果手机 ##
 https://www.sugarphone.com/cn/apk.php
 
@@ -48,10 +55,7 @@ https://www.h2os.com/preinstall
 https://www.vivo.com.cn/preloaded-app
 ![](https://img.fengfan.win/blogimg/202111102051363.png)
 
-----------
-## 华为 ##
-https://consumer.huawei.com/cn/support/apk/
-![](https://img.fengfan.win/blogimg/202111102052531.png)
+
 
 ----------
 ## 步步高 ##
