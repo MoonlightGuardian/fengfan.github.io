@@ -1,3 +1,4 @@
+hugo --destination ./docs --buildDrafts --cleanDestinationDir
 git init
 git add .
 git commit -m "uodate"
