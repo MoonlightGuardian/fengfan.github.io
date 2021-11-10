@@ -2,12 +2,10 @@
 name: sync2gitee
 
 on:
-
-
   workflow_dispatch:
-  watch:
+   watch:
   types: started
-  repository_dispatch:
+   repository_dispatch:
    types: manual_sync2gitee
     
     #on:
