@@ -5,8 +5,9 @@ on:
   workflow_dispatch:
    watch:
   types: started
-   repository_dispatch:
-   types: manual_sync2gitee
+      repository_dispatch:
+ 
+      types: manual_sync2gitee
     
     #on:
   # push推送时触发
