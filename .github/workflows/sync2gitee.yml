@@ -4,15 +4,15 @@ name: sync2gitee
 on:
 
 
-   #workflow_dispatch:
-  # watch:
-   #  types: started
-  # repository_dispatch:
-   #  types: manual_sync2gitee
+workflow_dispatch:
+  watch:
+  types: started
+  repository_dispatch:
+   types: manual_sync2gitee
     
     #on:
   # push推送时触发
- push
+ #push
   # 定时任务触发
 #schedule:
     # 每天北京时间9点跑
