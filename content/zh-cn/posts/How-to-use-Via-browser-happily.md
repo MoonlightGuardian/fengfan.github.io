@@ -21,7 +21,8 @@ tags = [
 ]
 
 series = [
-  "Android"
+  "工具",
+"Android"
 ]
 aliases = ["via浏览器"]
 images = [

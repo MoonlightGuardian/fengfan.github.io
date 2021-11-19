@@ -21,7 +21,8 @@ tags = [
 ]
 
 series = [
-  "工具"
+  "Android",
+"工具"
 ]
 aliases = ["How to use Thanox gracefully"]
 images = [
